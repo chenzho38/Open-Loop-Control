@@ -119,7 +119,7 @@ def generate_pwm(T1, T2, T0, sector) :
                 Tb = T1 + T0 / 2
                 Tc = T1 + T2 + T0 / 2
             elif sector == 5:
-                Ta = T2 + T0 / 2
+                Ta = T2 + T0 / 2git
                 Tb = T0 / 2
                 Tc = T1 + T2 + T0 / 2
             elif sector == 6:
